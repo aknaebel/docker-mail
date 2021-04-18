@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 MAINTAINER Alain Knaebel, <alain.knaebel@aknaebel.fr>
 
 ENV DEBIAN_FRONTEND noninteractive
